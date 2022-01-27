@@ -1,18 +1,21 @@
 //Zhicheng Chen
 //Conversion Homework 1a
 
-
 #include<iostream>
+#include <cmath>
 using namespace std;
 
-float number1 = 329.42
-float base1 = 10
-float base2 = 2
+float number1 = 329.42;
+int base1 = 10;
+int base2 = 2;
+
 int main()
 {
+  int NumShow;
+  NumShow = number1;
+  cout << "Interger Part of" << number1 << is << NumShow << endl;
+
   
-
-
 
 
 
