@@ -1,0 +1,22 @@
+//Zhicheng Chen
+//Conversion Homework 1a
+
+
+#include<iostream>
+using namespace std;
+
+float number1 = 329.42
+float base1 = 10
+float base2 = 2
+int main()
+{
+  
+
+
+
+
+
+
+
+  return 0;
+}
